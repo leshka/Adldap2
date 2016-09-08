@@ -118,11 +118,11 @@ class Factory
      * connection by performing a search for all entries
      * that contain a common name attribute.
      *
-     * @return array|bool
+     * @return Builder
      */
     public function all()
     {
-        return $this->query->whereHas($this->schema->commonName())->get();
+        return $this->query->whereHas($this->schema->commonName());
     }
 
     /**
@@ -135,7 +135,7 @@ class Factory
         return $this->query
             ->where([
                 $this->schema->objectClass()    => $this->schema->objectClassPerson(),
-                $this->schema->objectCategory() => $this->schema->objectCategoryPerson(),
+                // $this->schema->objectCategory() => $this->schema->objectCategoryPerson(),
             ]);
     }
 

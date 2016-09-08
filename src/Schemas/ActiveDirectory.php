@@ -536,7 +536,7 @@ class ActiveDirectory implements SchemaInterface
      */
     public function objectClassPerson()
     {
-        return 'person';
+        return 'account';
     }
 
     /**

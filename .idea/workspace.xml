@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4df8afcb-d2bb-46ef-ac80-7354bf1bd7f7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Schemas/ActiveDirectory.php" afterPath="$PROJECT_DIR$/src/Schemas/ActiveDirectory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Search/Factory.php" afterPath="$PROJECT_DIR$/src/Search/Factory.php" />
+    </list>
+    <ignored path="Adldap2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Adldap2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ActiveDirectory.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Schemas/ActiveDirectory.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="994">
+              <caret line="1028" column="1" selection-start-line="1028" selection-start-column="1" selection-end-line="1028" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Search/Factory.php" />
+        <option value="$PROJECT_DIR$/src/Schemas/ActiveDirectory.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1985" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adldap2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adldap2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adldap2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adldap2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adldap2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adldap2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adldap2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Search" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adldap2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adldap2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Schemas" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../product-microformats-tool" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4df8afcb-d2bb-46ef-ac80-7354bf1bd7f7" name="Default" comment="" />
+      <created>1473248962876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1473248962876</updated>
+      <workItem from="1473248964188" duration="165000" />
+      <workItem from="1473249256286" duration="98000" />
+      <workItem from="1473311402007" duration="39000" />
+      <workItem from="1473311651492" duration="90000" />
+      <workItem from="1473313544642" duration="625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1017000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1985" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <marker date="1473314269312" expanded="true" signature="0:1078" ph="{&quot;name&quot;: &quot;adldap2/adldap2&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="148:289" ph="[...]" />
+            <marker date="1473314269312" expanded="true" signature="328:453" ph="{&quot;issues&quot;: &quot;https://github.com/leshka/Adldap2/issues&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="470:615" ph="[...]" />
+            <marker date="1473314269312" expanded="true" signature="480:609" ph="{&quot;name&quot;: &quot;Steve Bauman&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="632:727" ph="{&quot;php&quot;: &quot;&gt;=5.5.9&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="748:826" ph="{&quot;phpunit/phpunit&quot;: &quot;4.6.*&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="843:893" ph="{...}" />
+            <marker date="1473314269312" expanded="true" signature="911:978" ph="{...}" />
+            <marker date="1473314269312" expanded="true" signature="930:972" ph="{&quot;Adldap\&quot;: &quot;src/&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="1000:1076" ph="{...}" />
+            <marker date="1473314269312" expanded="true" signature="1019:1070" ph="{&quot;Adldap\Tests\&quot;: &quot;tests/&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/Factory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2268">
+          <caret line="132" column="26" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="26" />
+          <folding>
+            <marker date="1473314419982" expanded="true" signature="37:282" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="297:5759" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="307:345" ph=" @var ConnectionInterface ..." />
+            <marker date="1473314419982" expanded="true" signature="383:415" ph=" @var Configuration ..." />
+            <marker date="1473314419982" expanded="true" signature="456:539" ph=" Stores the current query builder instance. ..." />
+            <marker date="1473314419982" expanded="true" signature="572:656" ph=" Stores the current schema instance. ..." />
+            <marker date="1473314419982" expanded="true" signature="690:853" ph=" Constructor. ..." />
+            <marker date="1473314419982" expanded="true" signature="959:1100" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="1109:1205" ph=" Sets the connection property. ..." />
+            <marker date="1473314419982" expanded="true" signature="1274:1327" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="1336:1410" ph=" Sets the query property. ..." />
+            <marker date="1473314419982" expanded="true" signature="1457:1500" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="1509:1593" ph=" Sets the schema property. ..." />
+            <marker date="1473314419982" expanded="true" signature="1650:1695" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="1704:1821" ph=" Returns a new query builder instance. ..." />
+            <marker date="1473314419982" expanded="true" signature="1866:1992" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="1977:1984" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="2001:2088" ph=" Returns the current query Builder instance. ..." />
+            <marker date="1473314419982" expanded="true" signature="2121:2162" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="2171:2252" ph=" Returns a new query grammar instance. ..." />
+            <marker date="1473314419982" expanded="true" signature="2287:2329" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="2338:2535" ph=" Performs a global 'all' search query on the current ..." />
+            <marker date="1473314419982" expanded="true" signature="2563:2643" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="2652:2737" ph=" Returns a query builder limited to users. ..." />
+            <marker date="1473314419982" expanded="true" signature="2767:3025" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="2822:3017" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="2823:3016" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3034:3122" ph=" Returns a query builder limited to printers. ..." />
+            <marker date="1473314419982" expanded="true" signature="3155:3297" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="3197:3289" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3198:3288" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3306:3406" ph=" Returns a query builder limited to organizational units. ..." />
+            <marker date="1473314419982" expanded="true" signature="3434:3571" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="3476:3563" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3477:3562" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3580:3666" ph=" Returns a query builder limited to groups. ..." />
+            <marker date="1473314419982" expanded="true" signature="3697:3837" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="3739:3829" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3740:3828" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3846:3942" ph=" Returns a query builder limited to exchange servers. ..." />
+            <marker date="1473314419982" expanded="true" signature="3977:4121" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="4019:4113" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4020:4112" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4130:4226" ph=" Returns a query builder limited to exchange servers. ..." />
+            <marker date="1473314419982" expanded="true" signature="4259:4401" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="4301:4393" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4302:4392" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4410:4506" ph=" Returns a query builder limited to exchange servers. ..." />
+            <marker date="1473314419982" expanded="true" signature="4540:4683" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="4582:4675" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4583:4674" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4692:4769" ph=" Returns the root DSE record. ..." />
+            <marker date="1473314419982" expanded="true" signature="4804:5140" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="4860:4864" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4885:4889" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4914:4942" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="5013:5133" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="5100:5122" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="5149:5268" ph=" Returns the current configuration naming context of the current domain. ..." />
+            <marker date="1473314419982" expanded="true" signature="5322:5443" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="5452:5619" ph=" Handle dynamic method calls on the query builder object. ..." />
+            <marker date="1473314419982" expanded="true" signature="5670:5757" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+          <folding>
+            <marker date="1473314269312" expanded="true" signature="0:1078" ph="{&quot;name&quot;: &quot;adldap2/adldap2&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="148:289" ph="[...]" />
+            <marker date="1473314269312" expanded="true" signature="328:453" ph="{&quot;issues&quot;: &quot;https://github.com/leshka/Adldap2/issues&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="470:615" ph="[...]" />
+            <marker date="1473314269312" expanded="true" signature="480:609" ph="{&quot;name&quot;: &quot;Steve Bauman&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="632:727" ph="{&quot;php&quot;: &quot;&gt;=5.5.9&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="748:826" ph="{&quot;phpunit/phpunit&quot;: &quot;4.6.*&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="843:893" ph="{...}" />
+            <marker date="1473314269312" expanded="true" signature="911:978" ph="{...}" />
+            <marker date="1473314269312" expanded="true" signature="930:972" ph="{&quot;Adldap\&quot;: &quot;src/&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="1000:1076" ph="{...}" />
+            <marker date="1473314269312" expanded="true" signature="1019:1070" ph="{&quot;Adldap\Tests\&quot;: &quot;tests/&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <marker date="1473314269312" expanded="true" signature="0:1078" ph="{&quot;name&quot;: &quot;adldap2/adldap2&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="148:289" ph="[...]" />
+            <marker date="1473314269312" expanded="true" signature="328:453" ph="{&quot;issues&quot;: &quot;https://github.com/leshka/Adldap2/issues&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="470:615" ph="[...]" />
+            <marker date="1473314269312" expanded="true" signature="480:609" ph="{&quot;name&quot;: &quot;Steve Bauman&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="632:727" ph="{&quot;php&quot;: &quot;&gt;=5.5.9&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="748:826" ph="{&quot;phpunit/phpunit&quot;: &quot;4.6.*&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="843:893" ph="{...}" />
+            <marker date="1473314269312" expanded="true" signature="911:978" ph="{...}" />
+            <marker date="1473314269312" expanded="true" signature="930:972" ph="{&quot;Adldap\&quot;: &quot;src/&quot;...}" />
+            <marker date="1473314269312" expanded="true" signature="1000:1076" ph="{...}" />
+            <marker date="1473314269312" expanded="true" signature="1019:1070" ph="{&quot;Adldap\Tests\&quot;: &quot;tests/&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/Factory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="994">
+          <caret line="256" column="1" selection-start-line="256" selection-start-column="1" selection-end-line="256" selection-end-column="1" />
+          <folding>
+            <marker date="1473314419982" expanded="true" signature="37:282" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="297:5759" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="307:345" ph=" @var ConnectionInterface ..." />
+            <marker date="1473314419982" expanded="true" signature="383:415" ph=" @var Configuration ..." />
+            <marker date="1473314419982" expanded="true" signature="456:539" ph=" Stores the current query builder instance. ..." />
+            <marker date="1473314419982" expanded="true" signature="572:656" ph=" Stores the current schema instance. ..." />
+            <marker date="1473314419982" expanded="true" signature="690:853" ph=" Constructor. ..." />
+            <marker date="1473314419982" expanded="true" signature="959:1100" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="1109:1205" ph=" Sets the connection property. ..." />
+            <marker date="1473314419982" expanded="true" signature="1274:1327" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="1336:1410" ph=" Sets the query property. ..." />
+            <marker date="1473314419982" expanded="true" signature="1457:1500" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="1509:1593" ph=" Sets the schema property. ..." />
+            <marker date="1473314419982" expanded="true" signature="1650:1695" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="1704:1821" ph=" Returns a new query builder instance. ..." />
+            <marker date="1473314419982" expanded="true" signature="1866:1992" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="1977:1984" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="2001:2088" ph=" Returns the current query Builder instance. ..." />
+            <marker date="1473314419982" expanded="true" signature="2121:2162" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="2171:2252" ph=" Returns a new query grammar instance. ..." />
+            <marker date="1473314419982" expanded="true" signature="2287:2329" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="2338:2535" ph=" Performs a global 'all' search query on the current ..." />
+            <marker date="1473314419982" expanded="true" signature="2563:2643" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="2652:2737" ph=" Returns a query builder limited to users. ..." />
+            <marker date="1473314419982" expanded="true" signature="2767:3025" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="2822:3017" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="2823:3016" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3034:3122" ph=" Returns a query builder limited to printers. ..." />
+            <marker date="1473314419982" expanded="true" signature="3155:3297" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="3197:3289" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3198:3288" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3306:3406" ph=" Returns a query builder limited to organizational units. ..." />
+            <marker date="1473314419982" expanded="true" signature="3434:3571" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="3476:3563" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3477:3562" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3580:3666" ph=" Returns a query builder limited to groups. ..." />
+            <marker date="1473314419982" expanded="true" signature="3697:3837" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="3739:3829" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3740:3828" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="3846:3942" ph=" Returns a query builder limited to exchange servers. ..." />
+            <marker date="1473314419982" expanded="true" signature="3977:4121" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="4019:4113" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4020:4112" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4130:4226" ph=" Returns a query builder limited to exchange servers. ..." />
+            <marker date="1473314419982" expanded="true" signature="4259:4401" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="4301:4393" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4302:4392" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4410:4506" ph=" Returns a query builder limited to exchange servers. ..." />
+            <marker date="1473314419982" expanded="true" signature="4540:4683" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="4582:4675" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4583:4674" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4692:4769" ph=" Returns the root DSE record. ..." />
+            <marker date="1473314419982" expanded="true" signature="4804:5140" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="4860:4864" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4885:4889" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="4914:4942" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="5013:5133" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="5100:5122" ph="..." />
+            <marker date="1473314419982" expanded="true" signature="5149:5268" ph=" Returns the current configuration naming context of the current domain. ..." />
+            <marker date="1473314419982" expanded="true" signature="5322:5443" ph="{...}" />
+            <marker date="1473314419982" expanded="true" signature="5452:5619" ph=" Handle dynamic method calls on the query builder object. ..." />
+            <marker date="1473314419982" expanded="true" signature="5670:5757" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Schemas/ActiveDirectory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="994">
+          <caret line="1028" column="1" selection-start-line="1028" selection-start-column="1" selection-end-line="1028" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
